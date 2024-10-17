@@ -1,0 +1,14 @@
+{
+  "name": "bun_regression_socket_closed",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "irc-framework": "^4.14.0"
+  }
+}
